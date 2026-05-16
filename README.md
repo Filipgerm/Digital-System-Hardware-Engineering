@@ -4,10 +4,6 @@
 
 This project implements a complete **UART (Universal Asynchronous Receiver-Transmitter) communication system with integrated 7-segment display driver** using Verilog HDL. The system demonstrates advanced digital hardware design principles through an ensemble architecture that combines transmitter, receiver, encryption, and display control modules. Data transmitted via UART is encrypted during transmission and decrypted upon reception, then displayed on a 4-digit 7-segment display.
 
-**Course**: Digital System Low Level Hardware I (7th Semester)  
-**Institution**: Aristotle University of Thessaloniki (AUTH)  
-**Team**: 2 students collaboration project
-
 ---
 
 ## 🛠️ Tech Stack
